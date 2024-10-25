@@ -9,7 +9,7 @@ This project is designed to present key information and trends to stakeholders, 
 2. Analyze order behaviors such as total orders or total monthly sales etc.
 3. Analyze customer behaviors in long years, total purchases, etc.
    
-## Dashboard Pages
+## Dashboard Pages Analysis 
  We have three pages in the dashboard
 1. The first one is <a href="https://github.com/MohamedNasr55/Global-Superstore/blob/main/Sales%20page%20Analysis.png"> Sales Analysis <a> on this page we have the total number of customers, total orders, net profit, and number of quantities  
 - Also, the number of quantities for each category we sell 
