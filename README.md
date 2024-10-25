@@ -19,6 +19,6 @@ This project is designed to present key information and trends to stakeholders, 
 - Also, the top 3 cities with the most orders from our store in the city 
 - Top 3 most profitable and selling markets
 -Top customers who buy from our store
-3-Third <a href="https://github.com/MohamedNasr55/Global-Superstore/blob/main/Customers%20Behavior%20Analysis.png"> analysis of customer behavior <a> Number of sales by subcategory
+3. Third <a href="https://github.com/MohamedNasr55/Global-Superstore/blob/main/Customers%20Behavior%20Analysis.png"> analysis of customer behavior <a> Number of sales by subcategory
 - Top 10 customers buying from our store by category 
 - Number of sales Marek Number of years of sales 
